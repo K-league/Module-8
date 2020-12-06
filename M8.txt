@@ -1,0 +1,35 @@
+M8 txt
+Start time: 6:25am
+Line 19 <h1><h1/> missing
+Line 35 messy code, needed blank row
+About Boo section (begin 36) missing <p><p/> tags, messy
+    42 - 80 <p><p/> tags added, corrected messy code by separating sentences and situating them between the tags
+81 Link outside of "", cut and pasted to correct location in Line
+81 missins <p><p/> tags
+83-86 <div><div/> tag formatting messy corrected to cascade
+87 blank row added
+91 < missing at beginning of line, > missing at end of line    
+100 messy code inserted blank row
+97 added two <br> tags
+101 - 107 corrected <div> tag formatting
+105 suspect issue with "factText", not sure what the issue is yet - will revist
+109 added blank row 
+115 - 120 <ol> missing <li> tags
+I know there is a shor cut for fixing formating, I would prefer to use that...bahaha I found it.
+BAHAHAHAHA I create a file for the error.js referenced document AND IT WORKS. 7:45am HECK. YES.
+
+All I need to do now is make the fact array correct, that's a probelom for future Kayleigh.
+I will remove and paste the instruction code into this document for safe keeping.
+		<div class="row">
+			<div class="col-sm-12">
+				<div class="panel panel-primary">
+					<div class="panel-heading">Instructions</div>
+					<div class="panel-body text-center">
+						<h4>Oh no! Someone has vandalized our Boo 'The Cutest Dog In The World' fanpage!</h4>
+						<h4>There are a bunch of errors on this page!</h4>
+						<h4>Try your best to find them all!</h4>
+					</div>
+				</div>
+			</div>
+		</div>
+The webpage is now awkwardly formatted but so is the grumpy cat example so, not sure it matters. Pretty sure its to do with the <br> tags.
